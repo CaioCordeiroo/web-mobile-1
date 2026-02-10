@@ -1,2 +1,6 @@
 # web-mobile-1
 Primeira aula de programação web mobile
+
+- explicando sobre nextJS
+- explicando sobre como criar um codespace
+  
