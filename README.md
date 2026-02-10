@@ -1,4 +1,4 @@
-# web-mobile-1
+# WEB MOBILE - AULA 01
 Primeira aula de programação web mobile
 
 - explicando sobre nextJS
